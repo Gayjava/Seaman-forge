@@ -1,2 +1,2 @@
 # Seaman-forge
-Seaman SMP for forge
+Scripts for the Seaman SMP on forge
