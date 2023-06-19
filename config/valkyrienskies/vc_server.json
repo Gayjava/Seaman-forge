@@ -5,7 +5,7 @@
     "disableRadars" : false,
     "disableShipReaders" : false,
     "RadarSettings" : {
-      "maxRadarRadius" : 256,
+      "maxRadarRadius" : 1024,
       "radarGetsName" : false,
       "radarGetsId" : true,
       "radarGetsPosition" : true,
